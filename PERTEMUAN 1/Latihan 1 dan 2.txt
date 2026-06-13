@@ -1,0 +1,27 @@
+Latihan 1 : 
+1. Anggota
+- ID anggota, 
+- nama, 
+- alamat, 
+- dan nomor telepon. 
+
+2. Buku
+- SBN, 
+- judul, 
+- nama pengarang, 
+- tahun terbit, 
+- dan jumlah stok
+
+3. Peminjam
+- tanggal pinjam 
+- dan 		
+
+4. Primary Key ID Pelanggan
+
+Latihan 2
+1. 3 entitas
+2. (junction table) untuk merapikan dan mencatat detail pesanan untuk 1 pelanggan
+3. 1 to Many, satu pelanggan bisa memesan banyak makanan/orderan
+4. Many to Many, 
+5. id_plg (PESANAN & DETAIL PESANAN), id_prd (DETAIL PESANAN & PRODUK)
+
